@@ -1,0 +1,44 @@
+print('resultado', int(4 + 6 / 2))
+
+#-----------------
+print('resultado', int(5 + 7))
+
+#-----------------
+print('resultado', int(3 ** 4))
+
+#-----------------
+media = (8 + 12 + 15) / 3
+print('resultado' ,round ( media ) , 2)
+
+#-----------------
+print('resultado', int(10 - 2 * 5))
+
+#-----------------
+print('resultado', int(27 / 3 + 5))
+
+#------------------------------------------
+print('resultado', int(2 ** 10))
+
+#-----------------
+resultado = (9 * 3) ** 2
+print(resultado)
+#----------------
+resultado = 81 ** 0.5
+print(resultado)
+#------------------
+print('resultado', (3 * 4 + 20))
+#------------------
+print('resultado', (15 * 2 - 7))
+#------------------
+resultado = 5 ** 3
+print(resultado)
+#------------------
+media = (17 + 21 + 25) / 3
+print('resultado' ,round ( media ) , 2)
+#------------------
+print('resultado', (11 * 2 + 7))
+#------------------
+print('resultado', (3 * 8 - 15 / 2))
+#------------------
+resultado = 17 % 4
+print(resultado)
